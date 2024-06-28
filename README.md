@@ -50,7 +50,3 @@ Go to the project directory
 ```
 
 Open `index.html` in your browser
-
-## Authors
-
-- [@sauravhathi](https://www.github.com/sauravhathi)
